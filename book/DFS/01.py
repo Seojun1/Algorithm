@@ -36,5 +36,4 @@ def dfs(graph, start_node):
             need_visited.extend(graph[node])
 
     return visited
-
 dfs(graph, 'A')
