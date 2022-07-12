@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb9533f4-66b6-4389-a13b-3bfab62159b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/book/검색 알고리즘/이진탐색/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/이진탐색/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/stack/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/반복문/15552.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/이분 탐색 단계/1920.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/이분 탐색 단계/1920_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/DFS/01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +42,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Algorithm\practice\DFS" />
       <recent name="C:\Users\User\PycharmProjects\Algorithm\book\검색 알고리즘\선형탐색" />
       <recent name="C:\Users\User\PycharmProjects\Algorithm\book" />
       <recent name="C:\Users\User\PycharmProjects\Algorithm\practice\브루트 포스법" />
       <recent name="C:\Users\User\PycharmProjects\Algorithm\practice\Stack" />
-      <recent name="C:\Users\User\PycharmProjects\Algorithm\book\기초개념" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02">
-    <configuration name="01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1920_1">
+    <configuration name="01 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/검색 알고리즘/이진탐색" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/이진탐색" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/검색 알고리즘/이진탐색/01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/이진탐색/01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="15552" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/검색 알고리즘/이진탐색" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/반복문" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/검색 알고리즘/이진탐색/01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/반복문/15552.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1920" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/검색 알고리즘/이진탐색" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/이분 탐색 단계" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/검색 알고리즘/이진탐색/02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/이분 탐색 단계/1920.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1920_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book/실습" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/이분 탐색 단계" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book/실습/08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/이분 탐색 단계/1920_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.02" />
-        <item itemvalue="Python.01 (3)" />
+        <item itemvalue="Python.1920_1" />
+        <item itemvalue="Python.1920" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.15552" />
         <item itemvalue="Python.01 (2)" />
-        <item itemvalue="Python.01 (1)" />
-        <item itemvalue="Python.08" />
       </list>
     </recent_temporary>
   </component>
