@@ -2,30 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb9533f4-66b6-4389-a13b-3bfab62159b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/book/검색 알고리즘/해시탐색/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/google/정렬 알고리즘/버블정렬/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/google/정렬 알고리즘/선택정렬/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/google/탐색 알고리즘/선형탐색/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/google/탐색 알고리즘/이진탐색/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/버블정렬/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/버블정렬/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/버블정렬/03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/선택정렬/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/선택정렬/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/선형탐색/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/이진탐색/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/알고리즘 분류/정렬/10989.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/알고리즘 분류/정렬/버블정렬/11931.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/알고리즘 분류/정렬/버블정렬/11931_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/이분 탐색 단계/10816.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/이분 탐색 단계/10816_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/코드업/1709 내림차순 정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/코드업/선택정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/알고리즘 분류/정렬/11650.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/알고리즘 분류/정렬/11651.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/알고리즘 분류/정렬/1181.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/알고리즘 분류/정렬/버블정렬/10814.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/기초개념/07.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/기초개념/07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/stack/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/stack/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/이분 탐색 단계/1920_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/이분 탐색 단계/1920_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/알고리즘 분류/정렬/2750.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/알고리즘 분류/정렬/2750.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +48,8 @@
       <recent name="C:\Users\User\PycharmProjects\Algorithm\practice\DFS" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1709 내림차순 정렬">
-    <configuration name="선택정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2750">
+    <configuration name="10814" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +57,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/코드업" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/알고리즘 분류/정렬/버블정렬" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/코드업/선택정렬.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/알고리즘 분류/정렬/버블정렬/10814.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1110" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/선택정렬" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/반복문" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/선택정렬/01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/반복문/1110.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11650" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/선택정렬" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/알고리즘 분류/정렬" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/선택정렬/02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/알고리즘 분류/정렬/11650.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11651" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/버블정렬" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/알고리즘 분류/정렬" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/버블정렬/03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/알고리즘 분류/정렬/11651.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1709 내림차순 정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2750" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/코드업" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/알고리즘 분류/정렬" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/코드업/1709 내림차순 정렬.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/알고리즘 분류/정렬/2750.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1709 내림차순 정렬" />
-        <item itemvalue="Python.선택정렬" />
-        <item itemvalue="Python.02 (1)" />
-        <item itemvalue="Python.01 (2)" />
-        <item itemvalue="Python.03" />
+        <item itemvalue="Python.2750" />
+        <item itemvalue="Python.1110" />
+        <item itemvalue="Python.11651" />
+        <item itemvalue="Python.10814" />
+        <item itemvalue="Python.11650" />
       </list>
     </recent_temporary>
   </component>
