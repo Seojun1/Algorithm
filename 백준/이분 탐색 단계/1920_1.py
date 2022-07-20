@@ -3,7 +3,7 @@ N = int(input())
 A = list(map(int, input().split()))
 M = int(input())
 arr = list(map(int, input().split()))
-A.sort()			# A 정렬
+A.sort()			# A 선형탐색
 
 # arr의 각 원소별로 이분탐색
 for num in arr:
