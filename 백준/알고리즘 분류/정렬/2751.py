@@ -1,9 +1,7 @@
-a = int(input())
-result = []
-
-for i in range(a):
-    b = int(input())
-    result.append(b)
-
-for i in sorted(result):
-    print(i)
+N = int(input())
+arr = []
+for i in range(N):
+    arr.append(int(input()))
+arr.sort()
+for j in arr:
+    print(j)

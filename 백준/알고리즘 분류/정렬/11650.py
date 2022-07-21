@@ -1,10 +1,9 @@
-import sys
 N = int(input())
-array = []
+arr = []
 for i in range(N):
-    [a, b] = map(int, sys.stdin.readline().split())
-    array.append([a, b])
-array = sorted(array)
+    a, b = list(map(int, input().split()))
+    arr.append([a, b])
+arr.sort()
 
 for i in range(N):
-    print(array[i][0], array[i][1])
+    print(arr[i][0], arr[i][1])

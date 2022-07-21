@@ -1,7 +1,6 @@
 # 소트인사이드
-N = input()
-a = list(N)
-a.sort()
-a.reverse()
-for i in a:
+N = list(map(int, input()))
+N.sort()
+N.reverse()
+for i in N:
     print(i, end='')
