@@ -1,9 +1,11 @@
-N = int(input())
+import sys
+
+N = int(sys.stdin.readline())
 arr = []
 for i in range(N):
-    a, b = list(map(int, input().split()))
+    [a, b] = list(map(int, sys.stdin.readline().split()))
     arr.append([a, b])
-arr.sort()
+arr = sorted(arr)
 
-for i in range(N):
-    print(arr[i][0], arr[i][1])
+for j in arr:
+    print(j[0], j[1])

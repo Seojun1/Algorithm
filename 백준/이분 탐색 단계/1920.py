@@ -1,26 +1,27 @@
-import sys
-N = int(sys.stdin.readline())
-M = list(map(int, sys.stdin.readline().split()))
-N2 = int(sys.stdin.readline())
-M2 = list(map(int, sys.stdin.readline().split()))
+from sys import stdin
 
-def binary_search(arr, target):
-    arr.sort()
+N = int(stdin.readline())
+arr = list(map(int, stdin.readline().split()))
+N2 = int(stdin.readline())
+arr2 = list(map(int, stdin.readline().split()))
+
+def binary_search(data, target):
+    data.sort()
     left = 0
-    right = len(arr) - 1
+    right = len(data) - 1
     while left <= right:
         mid = (left+right) // 2
-        if arr[mid] == target:
+        if data[mid] == target:
             return 1
-        elif arr[mid] < target:
-            left = mid + 1
+        elif data[mid] < target:
+            left = data[mid] + 1
         else:
-            right = mid - 1
+            right = data[mid] - 1
     return 0
 
-for i in M2:
-    idx = binary_search(M, i)
-    if idx == 1:
-        print(1)
-    else:
-        print(0)
+for i in arr2:
+     idx = binary_search(arr, i)
+     if idx == 1:
+         print(1)
+     else:
+         print(0)

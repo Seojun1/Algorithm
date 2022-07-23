@@ -1,21 +1,35 @@
-from sys import stdin
-N = int(stdin.readline())
-M = sorted(map(int, stdin.readline().split()))
-N2 = int(stdin.readline())
-M2 = list(map(int, stdin.readline().split()))
+n = int(input())
+cards = list(map(int, input().split(' ')))
+cards.sort()
 
-def binary_serach(arr, target):
+m = int(input())
+targets = list(map(int, input().split(' ')))
+
+def down_binary(target):
     left = 0
-    right = len(arr) -1
+    right = len(cards) - 1
+
     while left <= right:
-        mid = (left+right) // 2
-        if arr[mid] == target:
-            return arr.count(target)
-        elif arr[mid] < target:
-            left = mid + 1
-        else:
+        mid = (left + right) // 2
+
+        if cards[mid] >= target:
             right = mid - 1
-    return 0
-for i in range(len(M2)):
-    idx = binary_serach(M, M2[i])
-print(idx)
+        elif cards[mid] < target:
+            left = mid + 1
+    return left
+
+def up_binary(target):
+    left = 0
+    right = len(cards) - 1
+
+    while left <= right:
+        mid = (left + right) // 2
+
+        if cards[mid] > target:
+            right = mid - 1
+        elif cards[mid] <= target:
+            left = mid + 1
+    return left
+
+for i in range(m):
+    print(up_binary(targets[i])-down_binary(targets[i]), end=' ')
