@@ -1,6 +1,4 @@
-from sys import stdin
-
-def binary_seach(data, target):
+def binary_search(data, target):
     left = 0
     right = len(data) - 1
     while left <= right:
@@ -13,19 +11,17 @@ def binary_seach(data, target):
             left = mid + 1
     return 0
 
-
-a, b = map(int, stdin.readline().split())
-li1 = sorted([input() for _ in range(a)])
-li2 = sorted([input() for _ in range(b)])
+N, M = map(int, input().split())
+li1 = sorted([input() for _ in range(N)])
+li2 = sorted([input() for _ in range(M)])
 
 result = []
 for i in li2:
-    idx = binary_seach(li1, i)
+    idx = binary_search(li1, i)
     if idx == 1:
         result.append(i)
     else:
         pass
-
 print(len(result))
-for c in result:
-    print(c)
+for j in result:
+    print(j)

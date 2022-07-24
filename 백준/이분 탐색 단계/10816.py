@@ -1,35 +1,27 @@
-n = int(input())
-cards = list(map(int, input().split(' ')))
-cards.sort()
+import sys
 
-m = int(input())
-targets = list(map(int, input().split(' ')))
-
-def down_binary(target):
+def binary_search(data, target):
+    data.sort()
     left = 0
-    right = len(cards) - 1
-
+    right = len(data) - 1
     while left <= right:
-        mid = (left + right) // 2
-
-        if cards[mid] >= target:
+        mid = (left+right) // 2
+        if data[mid] == target:
+            return 1
+        elif data[mid] > target:
             right = mid - 1
-        elif cards[mid] < target:
+        else:
             left = mid + 1
-    return left
+    return 0
 
-def up_binary(target):
-    left = 0
-    right = len(cards) - 1
+N = int(sys.stdin.readline())
+M = list(map(int, sys.stdin.readline().split()))
+N2 = int(sys.stdin.readline())
+M2 = list(map(int, sys.stdin.readline().split()))
 
-    while left <= right:
-        mid = (left + right) // 2
-
-        if cards[mid] > target:
-            right = mid - 1
-        elif cards[mid] <= target:
-            left = mid + 1
-    return left
-
-for i in range(m):
-    print(up_binary(targets[i])-down_binary(targets[i]), end=' ')
+for i in M2:
+    idx = binary_search(M, i)
+    if idx == 1:
+        print(M.count(i), end=' ')
+    else:
+        print(0, end=' ')
