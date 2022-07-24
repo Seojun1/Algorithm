@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb9533f4-66b6-4389-a13b-3bfab62159b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/백준/이분 탐색 단계/10816_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/Stack/01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/이분 탐색 단계/10815.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/이분 탐색 단계/10815.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/이분 탐색 단계/10816.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/이분 탐색 단계/10816.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/이분 탐색 단계/1764.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/이분 탐색 단계/1764.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/이분 탐색 단계/1789.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/이분 탐색 단계/1789.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/이분 탐색 단계/1920.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/이분 탐색 단계/1920.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/알고리즘 분류/정렬/1181.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/알고리즘 분류/정렬/1181.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/알고리즘 분류/정렬/1427.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/알고리즘 분류/정렬/1427.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +46,8 @@
       <recent name="C:\Users\User\PycharmProjects\Algorithm\practice\DFS" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.12917">
-    <configuration name="10816" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10814">
+    <configuration name="10814" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/이분 탐색 단계" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/알고리즘 분류/정렬" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/이분 탐색 단계/10816.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/알고리즘 분류/정렬/10814.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10816_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11651" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +76,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/이분 탐색 단계" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/알고리즘 분류/정렬" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/이분 탐색 단계/10816_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/알고리즘 분류/정렬/11651.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1181" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/알고리즘 분류/정렬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/알고리즘 분류/정렬/1181.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15641" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1427" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,32 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/이분 탐색 단계" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/알고리즘 분류/정렬" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/이분 탐색 단계/15641.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1789" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/이분 탐색 단계" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/이분 탐색 단계/1789.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/알고리즘 분류/정렬/1427.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10814" />
+        <item itemvalue="Python.1427" />
+        <item itemvalue="Python.1181" />
+        <item itemvalue="Python.11651" />
         <item itemvalue="Python.12917" />
-        <item itemvalue="Python.15641" />
-        <item itemvalue="Python.10816_2" />
-        <item itemvalue="Python.10816" />
-        <item itemvalue="Python.1789" />
       </list>
     </recent_temporary>
   </component>
